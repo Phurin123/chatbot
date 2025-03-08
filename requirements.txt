@@ -1,0 +1,15 @@
+aiohttp
+beautifulsoup4
+chromadb
+fastapi
+Flask
+Jinja2
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchainhub
+langsmith
+openai
+python-dotenv
+requests
